@@ -1,5 +1,6 @@
 # TantraniketanAssignment on GitHub
 We started by creating our account on GitHub.
+
 There were 3 areas of discussion: Working Directory(where untracked files are present), Staging area(where tracked files are present), Git Repository(where committed files are present).
 'git init' command is used to initialize the git.
 'git status' command is used to show if commits are done yet or not.
