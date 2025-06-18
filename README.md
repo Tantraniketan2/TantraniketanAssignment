@@ -25,7 +25,7 @@ There were 3 areas of discussion: Working Directory(where untracked files are pr
 
 'git commit -m "_anystring_"'
 
-'git push origin _branchname_'
+'git push _alias_ _branchname_'
 
 **#to download repo or files**
 
@@ -43,4 +43,16 @@ There were 3 areas of discussion: Working Directory(where untracked files are pr
 
 **#to push commits**
 
-'git fetch _code link_'
+'git fetch _commit hash_'
+
+'git switch _branchName_' (where you want to push commit from _brachName_ to main)
+
+'git log' to see the history
+
+'git pull' to pull and update repo.
+
+'git cherry-pick _commit hash_'
+
+'git reset --hard _link_' to delete
+
+'git push -f' to force push
